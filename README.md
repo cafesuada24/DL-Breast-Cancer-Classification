@@ -53,7 +53,7 @@ The Breast Cancer Wisconsin (Diagnostic) dataset is used in this project. It con
 -   Train the model:
 
     ```sh
-    python BreastCancerClassification.py -t csv/dataset [-o path/to/save]
+    python BreastCancerClassification.py -t -f csv/dataset [-o path/to/save]
     ```
 
 -   Predict the classification of new data:
